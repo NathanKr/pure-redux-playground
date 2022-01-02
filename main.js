@@ -1,7 +1,7 @@
 import "./style.css";
 
 document.querySelector("#app").innerHTML =
-  "<div><h1>Hello Pure Redux!</h1><p>Please chec kthe console</p></div>";
+  "<div><h1>Hello Pure Redux!</h1><p>Please check the console</p></div>";
 
 import { createStore } from "redux";
 const addType = "ADD";
